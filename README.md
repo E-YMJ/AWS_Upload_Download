@@ -1,5 +1,6 @@
 # AWS Upload and Download API Demo
-**This project is a demonstration of AWS Upload and Download API using Spring Boot and Amazon Web Services. The primary focus of this project is to showcase the use of AWS API for uploading and downloading files.**
+**This project is a demonstration of AWS Upload and Download API using Spring Boot and Amazon Web Services.  
+  The primary focus of this project is to showcase the use of AWS API for uploading and downloading files.**
 
 - Please note that this project is intended for demonstration purposes only, and the files used are for simulation purposes.
 
